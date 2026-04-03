@@ -1,12 +1,15 @@
-##📊 Customer Churn Analysis (EDA Project)
+**📊 Customer Churn Analysis (EDA Project)**
 
 📌 Project Overview
 This project focuses on analyzing customer churn data to identify key factors that lead customers to leave a telecom service. Using Python-based data analysis and visualization techniques, the goal is to derive actionable business insights to improve customer retention.
 
 🎯 Objectives
 ● Understand customer churn behavior
+
 ● Identify key factors affecting churn
+
 ● Provide data-driven recommendations
+
 ● Perform Exploratory Data Analysis (EDA)
 
 🛠️ Tools & Technologies Used
